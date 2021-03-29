@@ -2,9 +2,7 @@ sudo: false
 language: node_js
 node_js:
   - 10 # use nodejs v10 LTS
-cache:
-  directories:
-    - node_modules # 缓存 node_modules 加快构建速度
+cache: npm
 branches:
   only:
     - master # build master branch only
