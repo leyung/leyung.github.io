@@ -9,7 +9,7 @@ description: '一个简单的个人生活记录'
 keywords:
 author: Leyung
 language: zh-CN
-timezone: 'Asia/Shanghai'
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
